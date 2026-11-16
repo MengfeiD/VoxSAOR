@@ -1,7 +1,7 @@
 <h1 align="center">VoxSAOR: Semantic-Aware Occupancy Robustification<br>via Aleatoric Uncertainty Modeling</h1>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=amFy9D8AAAAJ">Mengfei Duan</a>, Yuheng Zhang, <a href="https://scholar.google.com/citations?user=dRVMZUEAAAAJ">Guoqiang Zhao</a>, <a href="https://scholar.google.com/citations?user=_g0m5a0AAAAJ">Yuanfan Zheng</a>,<br>
+  <a href="https://scholar.google.com/citations?user=amFy9D8AAAAJ">Mengfei Duan</a>, <a href="https://github.com/7uHeng">Yuheng Zhang</a>, <a href="https://scholar.google.com/citations?user=dRVMZUEAAAAJ">Guoqiang Zhao</a>, <a href="https://scholar.google.com/citations?user=_g0m5a0AAAAJ">Yuanfan Zheng</a>,<br>
   <a href="https://yangkailun.com">Kailun Yang</a><sup>†</sup>, and <a href="https://robotics.hnu.edu.cn/info/1176/2960.htm">Zhiyong Li</a><sup>†</sup>
 </p>
 <p align="center">
