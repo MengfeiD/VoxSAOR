@@ -2,7 +2,7 @@
 
 <p align="center">
   Mengfei Duan, Yuheng Zhang, Guoqiang Zhao, Yuanfan Zheng,<br>
-  Kailun Yang<sup>†</sup>, and Zhiyong Li<sup>†</sup>
+  <a href="https://yangkailun.com">Kailun Yang</a><sup>†</sup>, and <a href="https://robotics.hnu.edu.cn/info/1176/2960.htm">Zhiyong Li</a><sup>†</sup>
 </p>
 <p align="center">
   <a href="">
