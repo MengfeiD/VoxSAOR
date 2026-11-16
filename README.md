@@ -52,9 +52,10 @@ Vision-based 3D occupancy prediction provides a dense semantic representation of
 If you find this work useful in your research, please consider citing the following paper:
 
 ```bibtex
-@misc{duan2026voxsaor,
-  title        = {{VoxSAOR}: Semantic-Aware Occupancy Robustification via Aleatoric Uncertainty Modeling},
+@article{duan2026voxsaor,
+  title        = {{VoxSAOR}: {Semantic-aware} Occupancy Robustification via Aleatoric Uncertainty Modeling},
   author       = {Duan, Mengfei and Zhang, Yuheng and Zhao, Guoqiang and Zheng, Yuanfan and Yang, Kailun and Li, Zhiyong},
+  journal      = {arXiv preprint arXiv:26011},
   year         = {2026}
 }
 ```
