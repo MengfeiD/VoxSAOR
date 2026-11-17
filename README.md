@@ -5,7 +5,7 @@
   <a href="https://yangkailun.com">Kailun Yang</a><sup>†</sup>, and <a href="https://robotics.hnu.edu.cn/info/1176/2960.htm">Zhiyong Li</a><sup>†</sup>
 </p>
 <p align="center">
-  <a href="">
+  <a href="https://arxiv.org/pdf/2611.20507">
     <img alt="arXiv" src="https://img.shields.io/badge/📄-arXiv-b31b1b?style=for-the-badge&amp;labelColor=1a1a2e" />
   </a>
 </p>
@@ -55,7 +55,7 @@ If you find this work useful in your research, please consider citing the follow
 @article{duan2026voxsaor,
   title        = {{VoxSAOR}: {Semantic-aware} Occupancy Robustification via Aleatoric Uncertainty Modeling},
   author       = {Duan, Mengfei and Zhang, Yuheng and Zhao, Guoqiang and Zheng, Yuanfan and Yang, Kailun and Li, Zhiyong},
-  journal      = {arXiv preprint arXiv:26011},
+  journal      = {arXiv preprint arXiv:2611.20507},
   year         = {2026}
 }
 ```
